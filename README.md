@@ -1,2 +1,1 @@
-# fh-cs1a
-2019
+# Object-Oriented Programming Methodologies in Java
